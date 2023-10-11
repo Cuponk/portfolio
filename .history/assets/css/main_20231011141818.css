@@ -3959,8 +3959,6 @@ body.is-preload #sidebar nav ul li {
 }
 
 .sig-name {
-    font-family: "Snell Roundhand", "Brush Script MT", "Lucida Sans",
-        "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva,
-        Verdana, sans-serif;
+    font-family: "Snell Roundhand", cursive;
     color: #ec429d;
 }
